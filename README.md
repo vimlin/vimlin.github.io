@@ -1,1 +1,1 @@
-# vimlin.github.io
+https://vimlin.github.io/ts.json
